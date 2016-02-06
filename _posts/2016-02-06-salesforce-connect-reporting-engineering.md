@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Mark Kovacevich
-    url: 'https://developer.salesforce.com/blogs/engineering/author/mkovacevich'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://developer.salesforce.com'
-  name: Engineering
-  favicon: 'https://developer.salesforce.com/favicon.ico'
-  domain: developer.salesforce.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - apex
   - facet
@@ -21,17 +16,24 @@ keywords:
   - map
   - pageblock
 description: 'Salesforce Connect (Formerly Lightning Connect) is an exciting product that allows organizations to connect external data sources to their Salesforce instance. One way this connection is done uses the OData protocol, but you can now write your own connector in Apex as well. Instead of Standard or Custom Objects, this external data is represented as External Objects.'
-inLanguage: en
+datePublished: '2016-02-06T19:39:50.826Z'
+dateModified: '2016-02-06T19:39:45.439Z'
+author:
+  - name: Mark Kovacevich
+    url: 'https://developer.salesforce.com/blogs/engineering/author/mkovacevich'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://developer.salesforce.com/blogs/engineering/2016/02/salesforce-connect-reporting.html'
 title: Salesforce Connect Reporting - Engineering
-datePublished: '2016-02-06T19:02:53.603Z'
-dateModified: '2016-02-06T18:56:32.898Z'
 sourcePath: _posts/2016-02-06-salesforce-connect-reporting-engineering.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Engineering
+  domain: developer.salesforce.com
+  url: 'https://developer.salesforce.com'
+  favicon: 'https://developer.salesforce.com/favicon.ico'
+url: salesforce-connect-reporting-engineering/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
