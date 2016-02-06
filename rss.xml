@@ -4,18 +4,11 @@
         <description><![CDATA[RuudForce.com]]></description>
         <link>http://ruudforce.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 19:02:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Feb 2016 19:13:55 GMT</lastBuildDate>
         <atom:link href="http://ruudforce.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c9b70b91-86d0-4ef5-b502-29d050a1494b.jpg">]]></description>
-            <link>http://ruudforce.com/5e9cf584-9af1-4284-b019-12c4364bc2db/index.html</link>
-            <guid isPermaLink="false">5e9cf584-9af1-4284-b019-12c4364bc2db</guid>
-            <pubDate>Sat, 06 Feb 2016 18:45:56 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Salesforce Connect Reporting - Engineering]]></title>
-            <description><![CDATA[<article><h1>Salesforce Connect Reporting - Engineering</h1><p>Salesforce Connect (Formerly Lightning Connect) is an exciting product that allows organizations to connect external data sources to their Salesforce instance. One way this connection is done uses the OData protocol, but you can now write your own connector in Apex as well. Instead of Standard or Custom Objects, this external data is represented as External Objects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/17c6b4c6609e74ad98d78ff4cc51653f21e026d1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Salesforce Connect Reporting - Engineering</h1><p>Salesforce Connect (Formerly Lightning Connect) is an exciting product that allows organizations to connect external data sources to their Salesforce instance. One way this connection is done uses the OData protocol, but you can now write your own connector in Apex as well. Instead of Standard or Custom Objects, this external data is represented as External Objects.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce549d666f7f8587a5d2e08574182eb653bb9dcd.png"></article>]]></description>
             <link>https://developer.salesforce.com/blogs/engineering/2016/02/salesforce-connect-reporting.html</link>
             <guid isPermaLink="false">cd72da8b-a35f-4f91-b5cb-534898671604</guid>
             <pubDate>Sat, 06 Feb 2016 19:02:53 GMT</pubDate>
