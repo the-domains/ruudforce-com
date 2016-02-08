@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[RUUDFORCE.COM | Salesforce Development Blog]]></title>
         <description><![CDATA[RUUDFORCE.COM | Salesforce Development Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://ruudforce.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 17:34:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 06:56:18 GMT</lastBuildDate>
+        <atom:link href="http://ruudforce.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I created RUUDFORCE.COM to share and blog about tools and resources that have helped me on my Salesforce journey. You can connect with me on twitter @ruud_awakening or on Linkedin</p>]]></description>
+            <link>http://ruudforce.com/8ad5f4fb-c00b-4d93-9513-d8c1f1e79c16/index.html</link>
+            <guid isPermaLink="false">8ad5f4fb-c00b-4d93-9513-d8c1f1e79c16</guid>
+            <pubDate>Mon, 08 Feb 2016 06:56:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Value of CRM Isn't In the Product, It's How You Use It]]></title>
-            <description><![CDATA[<article><h1>The Value of CRM Isn't In the Product, It's How You Use It</h1><p>A customer relationship management (CRM) system can give you insights about your business you never imagined. It can help you forecast more accurately and earlier than ever before - and scale tall buildings in a single bound. You get my point. CRM has the potential to be an organizational game</p><img src="https://www.salesforce.com/content/dam/blogs/us/banners/16SAL030_Webcast_Registration_LP_MM_R3%20(1).jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Value of CRM Isn't In the Product, It's How You Use It</h1><p>A customer relationship management (CRM) system can give you insights about your business you never imagined. It can help you forecast more accurately and earlier than ever before - and scale tall buildings in a single bound. You get my point. CRM has the potential to be an organizational game</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e37d65f6228607ffa2c25e314971c2bf95f1ccc8.jpg"></article>]]></description>
             <link>https://www.salesforce.com/blog/2016/02/value-of-crm-how-you-use-it.html</link>
             <guid isPermaLink="false">ea472aa7-bc14-44eb-9052-70e881abf80e</guid>
             <pubDate>Sun, 07 Feb 2016 17:33:23 GMT</pubDate>
