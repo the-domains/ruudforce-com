@@ -4,7 +4,7 @@
         <description><![CDATA[RUUDFORCE.COM | Salesforce Development Blog]]></description>
         <link>http://ruudforce.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 07:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 04:43:33 GMT</lastBuildDate>
         <atom:link href="http://ruudforce.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>http://ruudforce.com/8ad5f4fb-c00b-4d93-9513-d8c1f1e79c16/index.html</link>
             <guid isPermaLink="false">8ad5f4fb-c00b-4d93-9513-d8c1f1e79c16</guid>
             <pubDate>Mon, 08 Feb 2016 07:19:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Retrospective Debugger: Work in Progress]]></title>
+            <description><![CDATA[<article><h1>Retrospective Debugger: Work in Progress</h1><p>The Welkin Suite is proud to announce that a handy debugging tool will soon be featured in our IDE! With a load of useful functions available without having to switch to external apps, the Retrospective Debugger will bring bugfixing in your code to a new level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/113bcf60b166589fc4ed2fef8721666bb2cbe0cb.png"></article>]]></description>
+            <link>https://welkinsuite.com/retrospective-debugger-announcement/</link>
+            <guid isPermaLink="false">8e6dca08-f6cc-4cb2-bb3d-7be4f8a524ea</guid>
+            <pubDate>Fri, 19 Feb 2016 04:43:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Value of CRM Isn't In the Product, It's How You Use It]]></title>
