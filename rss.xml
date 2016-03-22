@@ -4,7 +4,7 @@
         <description><![CDATA[RUUDFORCE.COM | Salesforce Development Blog]]></description>
         <link>http://ruudforce.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 04:43:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 03:28:57 GMT</lastBuildDate>
         <atom:link href="http://ruudforce.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 08 Feb 2016 07:19:18 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[My Unofficial Study Guide for the Certified Technical Architect]]></title>
+            <description><![CDATA[<article><h1>My Unofficial Study Guide for the Certified Technical Architect</h1><p>For more background on the whole process of CTA check out my lengthy post. Prerequisites - DEV401 or equivalent - DEV501 or equivalent - ADM201 or equivalent - ADM301 or equivalent - Sales Cloud Consultant Certification or equivalent - Service Cloud Consultant Certification or equivalent - Technical Architect Study Guide material - Enterprise Technical Architecture - especially...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee24d0e8e210bcfcce55984d4c29982c2cf4e0fd.jpg"></article>]]></description>
+            <link>http://enterpriseforcearchitect.com/2014/03/14/my-unofficial-study-guide-for-the-certified-technical-architect/</link>
+            <guid isPermaLink="false">0a6cdab2-abc7-470f-8bd7-e6760ca26fce</guid>
+            <pubDate>Tue, 22 Mar 2016 03:28:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Retrospective Debugger: Work in Progress]]></title>
-            <description><![CDATA[<article><h1>Retrospective Debugger: Work in Progress</h1><p>The Welkin Suite is proud to announce that a handy debugging tool will soon be featured in our IDE! With a load of useful functions available without having to switch to external apps, the Retrospective Debugger will bring bugfixing in your code to a new level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/113bcf60b166589fc4ed2fef8721666bb2cbe0cb.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Retrospective Debugger: Work in Progress</h1><p>The Welkin Suite is proud to announce that a handy debugging tool will soon be featured in our IDE! With a load of useful functions available without having to switch to external apps, the Retrospective Debugger will bring bugfixing in your code to a new level.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0729b55333cdf4c864a054d4f05ac27fc3b3f6ba.png"></article>]]></description>
             <link>https://welkinsuite.com/retrospective-debugger-announcement/</link>
             <guid isPermaLink="false">8e6dca08-f6cc-4cb2-bb3d-7be4f8a524ea</guid>
             <pubDate>Fri, 19 Feb 2016 04:43:05 GMT</pubDate>
